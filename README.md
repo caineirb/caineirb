@@ -4,15 +4,17 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=3000&color=2F80ED&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Systems+%26+Backend+Engineer;Simulation+%26+Concurrency+Focused;Performance-Driven+Builder" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=3000&color=2F80ED&center=true&vCenter=true&width=650&lines=Computer+Science+Student;Systems+%26+Backend+Engineer;Concurrency+%26+Simulation+Focused;Full-Stack+%26+Cross-Platform+Builder" />
 </p>
 
 ---
 
 ## 🧠 About Me
 
-Computer Science student focused on building **high-performance systems**,  
-**multithreaded simulations**, and **intelligent backend architectures**.
+Computer Science student building **high-performance systems**,  
+**multithreaded simulations**, and **scalable full-stack applications**.
+
+I work across layers — from low-level systems and databases to web, mobile, and desktop applications.
 
 I design systems that are:
 - Scalable  
@@ -28,38 +30,54 @@ I design systems that are:
   <img src="https://img.shields.io/badge/Multithreading-Systems-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Statistical-Modeling-1f6feb?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Backend-Architecture-0a192f?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Computer-Vision-2F80ED?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Performance-Optimization-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Databases-Engineering-2F80ED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cross--Platform-Development-111827?style=for-the-badge" />
 </p>
 
 ---
 
 ## 🛠 Tech Stack
 
-### Languages
+### 💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,rust,ts,js" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,rust,ts,js,haskell" />
 </p>
 
-### Backend & Systems
+### 🗄 Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,fastapi,docker,sqlite,linux" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
 </p>
 
-### Tooling
+### ⚙ Backend & Infrastructure
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=nodejs,fastapi,flask,docker,linux" />
+</p>
+
+### 🌐 Application Development
+<p>
+  <img src="https://skillicons.dev/icons?i=react,reactnative" />
+  <img src="https://img.shields.io/badge/Desktop-Apps-0a192f?style=flat-square" />
+  <img src="https://img.shields.io/badge/CLI-Tools-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/TUI-Applications-1f2937?style=flat-square" />
+  <img src="https://img.shields.io/badge/Web-Applications-2563eb?style=flat-square" />
+</p>
+
+### 🧰 Tooling
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,neovim,vim" />
 </p>
 
 ---
 
 ## 🔬 Engineering Themes
 
-- Multithreaded vote simulation engines  
-- Probabilistic modeling with data validation pipelines  
+- Multithreaded vote simulation engines with probabilistic modeling  
+- Data validation pipelines & statistical comparison workflows  
 - YOLOv8 + ONNX real-time object detection systems  
-- Rust + SQLite backend systems  
-- FastAPI streaming & simulation architectures  
+- Rust + SQL-based backend systems  
+- REST APIs with relational & NoSQL databases  
+- CLI, TUI, desktop, web, and mobile application development  
 
 ---
 
@@ -82,6 +100,7 @@ I design systems that are:
 ## 🧭 Engineering Philosophy
 
 > Design systems, not scripts.  
+> Build across layers.  
 > Measure before optimizing.  
 > Prefer clarity over cleverness.  
 > Performance is a feature.
