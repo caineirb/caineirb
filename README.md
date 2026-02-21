@@ -1,53 +1,99 @@
-# Hi there, I'm Caine 👋
-
-I'm a passionate **software developer** who loves building clean, efficient, and impactful solutions. I enjoy working across the full stack and am always looking to learn new technologies.
-
----
-
-## 🚀 About Me
-
-- 🔭 I'm currently working on exciting open-source projects
-- 🌱 I'm always learning — right now diving deeper into cloud-native development
-- 👯 I'm looking to collaborate on meaningful open-source contributions
-- 💬 Ask me about software architecture, web development, or anything tech!
-- ⚡ Fun fact: I love exploring new programming languages and paradigms
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
----
-
-## 📊 GitHub Stats
+<!-- Header Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=200&section=header&text=Caine%20Bautista&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=caineirb&show_icons=true&theme=default&hide_border=true" alt="Caine's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caineirb&layout=compact&hide_border=true" alt="Top Languages" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=3000&color=2F80ED&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Systems+%26+Backend+Engineer;Simulation+%26+Concurrency+Focused;Performance-Driven+Builder" />
 </p>
 
 ---
 
-## 📫 Get In Touch
+## 🧠 About Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-caineirb-181717?style=flat-square&logo=github)](https://github.com/caineirb)
+Computer Science student focused on building **high-performance systems**,  
+**multithreaded simulations**, and **intelligent backend architectures**.
+
+I design systems that are:
+- Scalable  
+- Measurable  
+- Architecturally clean  
+- Performance-aware  
 
 ---
 
-<p align="center">Thanks for stopping by! 😊</p>
+## 🚀 Focus Areas
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Multithreading-Systems-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Statistical-Modeling-1f6feb?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Backend-Architecture-0a192f?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Computer-Vision-2F80ED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Performance-Optimization-111827?style=for-the-badge" />
+</p>
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,rust,ts,js" />
+</p>
+
+### Backend & Systems
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,fastapi,docker,sqlite,linux" />
+</p>
+
+### Tooling
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+---
+
+## 🔬 Engineering Themes
+
+- Multithreaded vote simulation engines  
+- Probabilistic modeling with data validation pipelines  
+- YOLOv8 + ONNX real-time object detection systems  
+- Rust + SQLite backend systems  
+- FastAPI streaming & simulation architectures  
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=caineirb&cache_seconds=86400" />
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=caineirb&theme=github-compact&hide_border=true" />
+</p>
+
+---
+
+## 🧭 Engineering Philosophy
+
+> Design systems, not scripts.  
+> Measure before optimizing.  
+> Prefer clarity over cleverness.  
+> Performance is a feature.
+
+---
+
+<p align="center">
+  <a href="https://github.com/caineirb">
+    <img src="https://img.shields.io/badge/GitHub-caineirb-0f2027?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:203a43,100:0f2027&height=120&section=footer"/>
+</p>
