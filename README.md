@@ -1,35 +1,51 @@
-<div align="center">
-
-<div align="left" style="display: inline-block;">
+<table border="0">
+<tr>
+<td valign="middle">
 
 <pre>
-          :t+II;;_;;i{{[;!;]i           
-         ^+;;;;I~{;;;?]I;;;;;;>-)cj     
-       `:;;;;;;I<_;l;;;>;;l;;;;;I_|?    
-       !;;;;;;li}!;;;;;>l;;;;;;;;;+}    
-      ,i;!;;;;iI;>__i;;i-;;;;;;;;;Ii'   
-     ,;;;>I;;!I_{({?_-;;;;;;;;;;;;;;;^  
-     ,;;;ltI-?;!ff-_-]IlI;;;;;;;;;;I;,  
-     :!;;;(?qqXvct{YCYj-[{+I;;;;;;;;l:  
-      ._;>~ZwOZmpppppppwmUx}}>;;;;;I;   
-       ~;>_z{111{{XpZ/}fzXu|xv<;;;;;'   
-        >1}ZvwZc)]\qL[]\Xz[fQ0\;;;lI    
-        'l}zv1?~_]1ZL1jf?]|zpU/;;fj"    
-         <nQvcOwqn\pZ(rpppppUvx>\j1.    
-          {cvmpp0(JqL()0pppYr{]}jf+     
-          >n(n0pqu///rLpppYf]]][|+      
-            )[xcJL0XXxvXqwc/]]_;        
-            i]]{??t/n)?twZvv]?_         
-             <]}uL0cU0pppXv)-?_         
-              {xvLppppqmzu1}{{{         
-             `|v|jjjjj/}?ttjrnx!;;^^    
-          !{\(/vvv][[[[(vvn/u)f/l;;;;;;;
-       _</~;;;;fvv]]]]]}vv{]{(f+;;;;;;;;
+                   \vc[]]-];;[{I;;;I{{{{~;;;;;},
+                  :\!;;;;;;;;l};;;;>{{{{!;!~;;;>!;I~{YY{-
+                 u!;;;;;;;;;>{{I;;;;i{{{;;;;;;;;;;;;;!_{{zYc.
+              ';;;;;;;;;;;-+{{{I;;;;;;;;;;;;;iI;;;;;;;;;(XYYl
+             `;;;;;;;;;;;;;;i[i;;;>;;;;;<;;;;;;;;;;;;;;;;i{~v
+             ;;;;;;;;;;;;;;;{;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;?.
+            +i;;;;;;;;;;;;]{{~;<;;<;;;;;-+;;;;;;;;;;;;;;;;;[{l
+            {;;;;;;;;;;;;<;l;<i}-~{;;;;;i_};;;;;;;;;;;;;;;;;i{^
+          `;;;;-{;;;;;;{I;;;;l;ll{}I;];;;{_;;;;;;;;;;;;;;;;;;;<`
+          ;;;;;;l;;;;;;;;;+{{u{{{{;{{;;;;;;;;;;;;;;;;;;;;;;;;;;;^
+         .;;;;;;l{!;;;!;;l-{/cYz-I{{{};;>;;;;;;;;;;;;;;;;;;;;;;;:
+          !;;;;;;n(;;1vx;;;+Y|Y\{>Iv<;;;;i;;;;;;;;;;;;;;;;;;!;;;;
+         `;;;;;;;{<;1Zpq[|vj({l<I]vvv)II;;I!I;;;;;;;;;;;;;;;;;<;:
+           <;;;;;X!IpppppmvvJppppppppppqvvvvvv1l;;;;;;;;;;;;;;;,
+            rl;;I{;zpppppppppppppppppppppppwvvr]]]>;;;;;;;;;;<;,
+             ^;;I{lpp/[}[[[(fpppppppppUt{}[}}[[[{vt];;;;;;;;;;;
+             };;I;lp{{{{{{{}}[}xZpp0v][}vLppppc\tvvv>;;;;;;;;;^
+              I;tIlpLvvpppUvv]]]vppY]]]rvppppcvvv0Cv1;;;;;;;;,
+              ~v1;LpvvczvX\{]][[OddC{]]]l!~~>][}vppvv;;;;;l\;
+              `ll;LUvvr]]!^^!]]])ddC1]]{}i,i]]rvCppvvI;;;_jj+
+                l;LOvvvu///rjvt()ZdJ(\vvQpQQQppmppJvv_;;>jjj+
+                ^(OpvvvcwZqppvv(Qddd)1nvpppppppppvvvv1I?jjjj^
+                 (OmvvYppppppv)qddddO))uppppppppvvvvj][jjjj1
+                  {Uvvcppppp0))xnddn))))0pppppLvv1]]]])jjjf`
+                   vvvvvqppp0()))))))))nppppppvv[[]]]]|jjj
+                   _j][vvLpppJJJJJJJppppppppcv|[]]]]]:i+
+                    ]\][vvv0pppppY0pwYvYOpppqvv|]]]]]"
+                     |]]]xvuuuj<<{}{<<<]/vJpqvvv]]]]?`
+                     ,[]]]]]?__tffuUX]]?)Zppvvvv/]]]x
+                      "[]]]\vvcUUUUUc[wpppppvvvv][??]
+                       ']]]]vYppdLYLpppppppvvvx]?~]]]
+                        ^xvvvcpppppppppppOvvvv]i]]]]]
+                         v]vvvpppppppppvvvvvu!vvvuuuv
+                         xvv]tvvvvvvvvvf1_-{vvfvvvvvv?;;;;`.
+                       [/vvvvvu/]-?]]]]]]][]]]]]]][(vv?;;;;;;;,    ,`
+                  'ttt\\;vvvvvv[]]]]]]]]fvvvvv1]uvx]nv|~;;;;;;;;;;;;;
+                +tti);;;;>vvvvv[]]]]]]]](vvvu[]]](x]nv1;;;;;;;;;;;;;;
+              |t\i;;;;;;;;\vvvv[]]]]]]]]]vvvvn]]]nu[nv>;;;;;;;;;;;;;;
 </pre>
 
-</div>
+</td>
 
-<div align="right" style="display: inline-block;">
+<td valign="middle">
 
 <pre>
 caineirb@kayen
@@ -44,6 +60,6 @@ Memory → 5.97 GiB / 14.97 GiB (40%)
 Disk → 82.61 GiB / 457.36 GiB (18%) - btrfs
 </pre>
 
-</div>
-
-</div>
+</td>
+</tr>
+</table>
