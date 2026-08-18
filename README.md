@@ -1,4 +1,4 @@
-<img align="left" src="YOUR_IMAGE_URL" width="220">
+<img align="left" src="paupau.png" width="220">
 
 <pre>
 caineirb@kayen
