@@ -11,7 +11,7 @@
        ~;>_z{111{{XpZ/}fzXu|xv<;;;;;'                     Graduated → BS Computer Science (MSU-IIT)
         >1}ZvwZc)]\qL[]\Xz[fQ0\;;;lI                      LinkedIn → www.linkedin.com/in/caineivanbautista
         'l}zv1?~_]1ZL1jf?]|zpU/;;fj"                      Portfolio → caineirb.qzz.io 
-         <nQvcOwqn\pZ(rpppppUvx>\j1.                      Status → Open to Work
+         <nQvcOwqnpZrpppppUvx>\j1.1.                      Status → Open to Work
           {cvmpp0(JqL()0pppYr{]}jf+     
           >n(n0pqu///rLpppYf]]][|+      
             )[xcJL0XXxvXqwc/]]_;        
