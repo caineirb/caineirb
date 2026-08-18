@@ -1,7 +1,3 @@
-<table border="0">
-<tr>
-<td valign="middle">
-
 <pre>
           :t+II;;_;;i{{[;!;]i           
          ^+;;;;I~{;;;?]I;;;;;;>-)cj     
@@ -9,13 +5,13 @@
        !;;;;;;li}!;;;;;>l;;;;;;;;;+}    
       ,i;!;;;;iI;>__i;;i-;;;;;;;;;Ii'   
      ,;;;>I;;!I_{({?_-;;;;;;;;;;;;;;;^  
-     ,;;;ltI-?;!ff-_-]IlI;;;;;;;;;;I;,  
-     :!;;;(?qqXvct{YCYj-[{+I;;;;;;;;l:  
-      ._;>~ZwOZmpppppppwmUx}}>;;;;;I;   
-       ~;>_z{111{{XpZ/}fzXu|xv<;;;;;'   
-        >1}ZvwZc)]\qL[]\Xz[fQ0\;;;lI    
-        'l}zv1?~_]1ZL1jf?]|zpU/;;fj"    
-         <nQvcOwqn\pZ(rpppppUvx>\j1.    
+     ,;;;ltI-?;!ff-_-]IlI;;;;;;;;;;I;,                    caineirb@kayen
+     :!;;;(?qqXvct{YCYj-[{+I;;;;;;;;l:                    ---------------
+      ._;>~ZwOZmpppppppwmUx}}>;;;;;I;                     Full Name → Caine Ivan Recomata Bautista
+       ~;>_z{111{{XpZ/}fzXu|xv<;;;;;'                     Graduated → BS Computer Science (MSU-IIT)
+        >1}ZvwZc)]\qL[]\Xz[fQ0\;;;lI                      LinkedIn → www.linkedin.com/in/caineivanbautista
+        'l}zv1?~_]1ZL1jf?]|zpU/;;fj"                      Portfolio → caineirb.qzz.io 
+         <nQvcOwqn\pZ(rpppppUvx>\j1.                      Status → Open to Work
           {cvmpp0(JqL()0pppYr{]}jf+     
           >n(n0pqu///rLpppYf]]][|+      
             )[xcJL0XXxvXqwc/]]_;        
@@ -26,24 +22,3 @@
           !{\(/vvv][[[[(vvn/u)f/l;;;;;;;
        _</~;;;;fvv]]]]]}vv{]{(f+;;;;;;;;
 </pre>
-
-</td>
-
-<td valign="middle">
-
-<pre>
-caineirb@kayen
----------------
-OS → CachyOS x86_64
-Kernel → Linux 7.1.8-1-cachyos
-Uptime → 5 hours, 17 mins
-Shell → bash 5.3.5
-Terminal → kitty 0.48.2
-CPU → AMD Ryzen 7 5800H (16) @ 4.46 GHz
-Memory → 5.97 GiB / 14.97 GiB (40%)
-Disk → 82.61 GiB / 457.36 GiB (18%) - btrfs
-</pre>
-
-</td>
-</tr>
-</table>
