@@ -1,12 +1,12 @@
-<table>
-<tr>
-<td width="35%" align="center">
+<table style="border: none;">
+<tr style="border: none;">
+<td style="border: none;" width="35%" align="center">
 
 <img src="paupau.png" width="250">
 
 </td>
 
-<td>
+<td style="border: none;">
 
 <pre>
 caineirb@kayen
