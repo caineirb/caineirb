@@ -1,6 +1,6 @@
 <div align="center">
 
-<div style="display: inline-block; vertical-align: middle;">
+<div align="left" style="display: inline-block;">
 
 <pre>
           :t+II;;_;;i{{[;!;]i           
@@ -29,7 +29,7 @@
 
 </div>
 
-<div style="display: inline-block; vertical-align: middle;">
+<div align="right" style="display: inline-block;">
 
 <pre>
 caineirb@kayen
