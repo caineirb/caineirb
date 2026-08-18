@@ -1,6 +1,6 @@
 <img align="left" src="paupau.png" width="220">
 
-<pre>
+<pre style="background: transparent;">
 caineirb@kayen
 ---------------
 OS → CachyOS x86_64
