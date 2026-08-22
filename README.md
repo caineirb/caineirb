@@ -47,7 +47,7 @@
 name: Caine Ivan Recomata Bautista
 location: Badas, Placer, Surigao del Norte, Philippines
 education: BS Computer Science, MSU-IIT (2022–2026) — Magna Cum Laude
-current: Part-time Software Engineer @ Anura Innovations Inc.
+current: Open to Work (pls hire me)
 focus: Backend systems, REST APIs, and the infrastructure nobody notices until it breaks
 interests: [machine learning, computer vision, NLP, data mining]
 ```
