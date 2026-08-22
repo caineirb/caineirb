@@ -24,6 +24,7 @@
        _>/~;;;;fvv]]]]]}vv{]{(f+;;;;;;;;
        --Its me, just squint your eyes--
 </pre>
+
 <h1 align="center">Hi, I'm Caine 👋</h1>
 <h3 align="center">Backend Developer · BS Computer Science, MSU-IIT (Magna Cum Laude) · Software Engineer @ Anura Innovations</h3>
 
@@ -173,8 +174,8 @@ Built a real-time computer vision pipeline on a fine-tuned YOLO model for live o
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=caineirb&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caineirb&layout=compact&theme=github_dark&hide_border=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=caineirb&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=caineirb&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 <p align="center">
@@ -183,10 +184,6 @@ Built a real-time computer vision pipeline on a fine-tuned YOLO model for live o
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=caineirb&theme=github-compact&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=caineirb&theme=darkhub&no-frame=true&column=7&margin-w=8&margin-h=8" />
 </p>
 
 ---
@@ -200,5 +197,5 @@ Built a real-time computer vision pipeline on a fine-tuned YOLO model for live o
 </p>
 
 <div align="center">
-<sub>Thanks for scrolling this far — now go read the actual code 👀</sub>
+<sub>///</sub>
 </div>
